@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using static System.Console;
 
-namespace Module._9._6._2
+namespace ModuleSort
 {
     class Program
     {

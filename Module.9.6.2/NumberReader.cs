@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-namespace Module._9._6._2
+
+namespace ModuleSort
 {
     class NumberReader
     {
